@@ -1,0 +1,38 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {print = id; }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {flashWindow = id; japaneseText = id; textWindow = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = CustomView; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {CLASS = CustomWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = CustomWindow2; LANGUAGE = ObjC; SUPERCLASS = NSPanel; }, 
+        {
+            ACTIONS = {showHelp = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FlashView; LANGUAGE = ObjC; SUPERCLASS = NSQuickDrawView; }, 
+        {
+            ACTIONS = {
+                changeTransparency = id; 
+                mMinimize = id; 
+                zOrderDesktop = id; 
+                zOrderNormal = id; 
+                zOrderOnTop = id; 
+            }; 
+            CLASS = FlashWindow; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {flashWind = NSWindow; rightClickMenu = NSMenu; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = JapaneseEntry; LANGUAGE = ObjC; SUPERCLASS = NSTextField; }, 
+        {CLASS = JapaneseTextView; LANGUAGE = ObjC; SUPERCLASS = NSTextView; }, 
+        {CLASS = MyWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

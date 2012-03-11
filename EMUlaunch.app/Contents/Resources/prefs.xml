@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<data>
+	SoWm+uJa+v0bTEJy+hCMssPPkSe6xR9GvxG+mrjcYpW8UnbDAJcnsXTpekeF+XQl
+	</data>
+	<key>Expiration Date</key>
+	<integer>0</integer>
+	<key>chrome</key>
+	<integer>0</integer>
+	<key>dragging</key>
+	<integer>1</integer>
+	<key>dropShadow</key>
+	<integer>0</integer>
+	<key>hasMask</key>
+	<integer>0</integer>
+	<key>maskname</key>
+	<string></string>
+	<key>resizeable</key>
+	<integer>0</integer>
+	<key>shieldWindow</key>
+	<integer>0</integer>
+	<key>widget</key>
+	<integer>1</integer>
+	<key>windowAlpha</key>
+	<integer>100</integer>
+	<key>windowType</key>
+	<integer>4</integer>
+	<key>zOrder</key>
+	<string>standard</string>
+</dict>
+</plist>
