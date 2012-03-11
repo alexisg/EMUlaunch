@@ -13,7 +13,7 @@ Mprojector uses its own actionscript syntax to create native OS X menu and file 
 Disclaimer
 ----------
 
-The EMUlaunch source code was originally written as pet project back in 2003 back when I was first starting ActionScript. That being said the code suffers from some obvious beginner decisions and limitations found in ActionScript 1 which was then converted into AS2. From what I remember the most basic workflow of how EMUlaunch works is this:
+The EMUlaunch source code was originally written as a pet project back in 2003 when I was first starting ActionScript. That being said, the code suffers from some obvious beginner decisions and limitations found in ActionScript 1 (which was then converted into AS2). The most basic workflow of how EMUlaunch works is this:
 
 1. User sets the paths for their emulators/roms/screenshots from within the Application.
 2. EMUlaunch creates xml files with these paths and other settings such as screen size and layout choices.
